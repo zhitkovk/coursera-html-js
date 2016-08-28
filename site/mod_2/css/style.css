@@ -14,10 +14,9 @@ h1 {
 	text-align: center;
 }
 
-
+/* Working with textbox*/
 .textbox {
 	border: 1px solid black;
-	padding: 10px;
 	margin: 5px;
 }
 
@@ -25,11 +24,16 @@ h1 {
 	width: 30%;
 	border: 1px solid black;
 	padding: 2px;
-	margin: 0px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
 	color: purple;
-	background-color: #6BEDA3;
 	text-align: center;
+	position: relative;
+	top: -1px;
+	left: 70%;
+}
 
+.textinbox {
+	padding: 10px;
 }
 
 #chicken {
