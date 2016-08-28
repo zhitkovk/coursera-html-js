@@ -16,11 +16,6 @@ h1 {
 }
 
 /* Working with textbox*/
-.textbox {
-	border: 1px solid black;
-	margin: 5px;
-}
-
 .sechead {
 	font-size: 125%;
 	width: 30%;
@@ -33,6 +28,25 @@ h1 {
 	top: -1px;
 	left: 70%;
 }
+
+.textbox1 {
+	border: 1px solid black;
+	margin: 5px;
+	background-color: #99d8c9;
+}
+
+.textbox2 {
+	border: 1px solid black;
+	margin: 5px;
+	background-color: #a6bddb;
+}
+
+.textbox3 {
+	border: 1px solid black;
+	margin: 5px;
+	background-color: #fa9fb5; 
+}
+
 
 .textinbox {
 	padding: 10px;
