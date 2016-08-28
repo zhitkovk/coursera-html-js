@@ -32,19 +32,19 @@ h1 {
 .textbox1 {
 	border: 1px solid black;
 	margin: 5px;
-	background-color: #99d8c9;
+	background-color: #b3e2cd;
 }
 
 .textbox2 {
 	border: 1px solid black;
 	margin: 5px;
-	background-color: #a6bddb;
+	background-color: #fdcdac;
 }
 
 .textbox3 {
 	border: 1px solid black;
 	margin: 5px;
-	background-color: #fa9fb5; 
+	background-color: #cbd5e8; 
 }
 
 
@@ -53,15 +53,15 @@ h1 {
 }
 
 #chicken {
-	background-color: #0AC2FF;
+	background-color: #7fc97f;
 }
 
 #beef {
-	background-color: #FFC7C7;
+	background-color: #beaed4;
 }
 
 #sushi {
-	background-color: #E0CCDF;
+	background-color: #fdc086;
 }
 
 /* Media queries */
