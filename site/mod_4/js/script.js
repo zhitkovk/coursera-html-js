@@ -66,7 +66,7 @@
   };
 
   // Test result
-  console.log(firstLetter)
+  console.log('Test output (array components are converted to strings here): ' + firstLetter)
 
   // STEP 12:
   // Compare the 'firstLetter' retrieved in STEP 11 to lower case
